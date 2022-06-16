@@ -52,5 +52,5 @@ $(function(){
   
 
 function profileButton() {
-  document.getElementById("name").innerHTML = "Class of 2026";
+  document.getElementById("name").innerHTML = "Made in 2022";
 }
