@@ -51,6 +51,6 @@ $(function(){
   });
   
 
-function helloWorld() {
-  document.getElementById("name").innerHTML = "Age 13";
+function profileButton() {
+  document.getElementById("name").innerHTML = "Class of 2026";
 }
