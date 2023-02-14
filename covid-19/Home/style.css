@@ -88,23 +88,20 @@ div {
 /* General Overview */
 
 .overviewtitle {
-    float: left;
     border-style: solid;
     border-color: rgb(102, 192, 141);
     border-radius: 10px;
-    display:block;
+    margin-left: 10%;
     padding: 10px;
-    margin: 50px 0px 100px 0px;
     font-size: 30px;
     font-family: monospace;
+    display: inline-block;
 }
 
 .overviewtext {
-    float: left;
-    margin: -70px 0px 50px 0px;
-    text-align: justify;
     font-size: 16px;
     line-height: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 0px 400px 0px 400px;
+    margin: 0 30% 50px 10%;
+    display: inline-block;
 }
